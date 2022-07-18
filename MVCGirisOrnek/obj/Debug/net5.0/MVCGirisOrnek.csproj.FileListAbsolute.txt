@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.AssemblyInfoInputs.cache
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.AssemblyInfo.cs
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.RazorAssemblyInfo.cache
+C:\Users\ARIBILGI1\Desktop\MVCGirisOrnek\MVCGirisOrnek\obj\Debug\net5.0\MVCGirisOrnek.RazorAssemblyInfo.cs
